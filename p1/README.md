@@ -8,7 +8,7 @@
 |:---------------------------------|:----------|
 | Jetpack Compose starter tutorial | **100 %** |
 | Compose overview                 | **100 %** |
-| Thinking in Compose              | **0 %**   |
+| Thinking in Compose              | **100 %** |
 | Write your firs Compose app      | **0 %**   |
 | Basic layouts in Compose         | **0 %**   |
 | State in Compose                 | **0 %**   |
