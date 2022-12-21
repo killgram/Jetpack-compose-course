@@ -14,10 +14,10 @@
 
 ## Overall Progress
 
-| Pathway                                 | Progress | Readme links                                                            |
-|:----------------------------------------|:---------|-------------------------------------------------------------------------|
-| Compose essentials                      | **0 %**  | [README](https://developer.android.com/courses/jetpack-compose/course)  |
-| Layouts, theming and animation          | **0 %**  | [README](https://developer.android.com/courses/jetpack-compose/course)  |
-| Architecture and state                  | **0 %**  | [README](https://developer.android.com/courses/jetpack-compose/course)  |
-| Accessibility, testing and performance  | **0 %**  | [README](https://developer.android.com/courses/jetpack-compose/course)  |
-| Form factors                            | **0 %**  | [README](https://developer.android.com/courses/jetpack-compose/course)  |
+| Pathway                                 | Progress | Readme links                                                              |
+|:----------------------------------------|:---------|---------------------------------------------------------------------------|
+| Compose essentials                      | **0 %**  | [README](https://github.com/killgram/Jetpack-compose-course/tree/main/p1) |
+| Layouts, theming and animation          | **0 %**  | [README](https://github.com/killgram/Jetpack-compose-course/tree/main/p2) |
+| Architecture and state                  | **0 %**  | [README](https://github.com/killgram/Jetpack-compose-course/tree/main/p3) |
+| Accessibility, testing and performance  | **0 %**  | [README](https://github.com/killgram/Jetpack-compose-course/tree/main/p4) |
+| Form factors                            | **0 %**  | [README](https://github.com/killgram/Jetpack-compose-course/tree/main/p5) |
