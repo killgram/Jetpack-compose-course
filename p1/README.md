@@ -6,7 +6,7 @@
 
 | Pathway                          | Progress  |
 |:---------------------------------|:----------|
-| Jetpack Compose starter tutorial | **0 %**   |
+| Jetpack Compose starter tutorial | **100 %** |
 | Compose overview                 | **0 %**   |
 | Thinking in Compose              | **0 %**   |
 | Write your firs Compose app      | **0 %**   |
