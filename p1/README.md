@@ -11,6 +11,6 @@
 | Thinking in Compose              | **100 %** |
 | Write your firs Compose app      | **100 %** |
 | Basic layouts in Compose         | **100 %** |
-| State in Compose                 | **0 %**   |
+| State in Compose                 | **100 %** |
 | Compose theming                  | **0 %**   |
 | Migration to Compose             | **0 %**   |
