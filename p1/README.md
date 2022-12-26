@@ -13,4 +13,4 @@
 | Basic layouts in Compose         | **100 %** |
 | State in Compose                 | **100 %** |
 | Compose theming                  | **100 %** |
-| Migration to Compose             | **0 %**   |
+| Migration to Compose             | **100 %** |
