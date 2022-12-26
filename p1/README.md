@@ -12,5 +12,5 @@
 | Write your firs Compose app      | **100 %** |
 | Basic layouts in Compose         | **100 %** |
 | State in Compose                 | **100 %** |
-| Compose theming                  | **0 %**   |
+| Compose theming                  | **100 %** |
 | Migration to Compose             | **0 %**   |
