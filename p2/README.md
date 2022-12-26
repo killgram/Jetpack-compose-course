@@ -6,7 +6,8 @@
 
 | Pathway                        | Progress  |
 |:-------------------------------|:----------|
-| Deep dive into Compose Layouts | **0 %**   |
+| Deep dive into Compose Layouts | **100 %** |
 | Lazy layouts                   | **0 %**   |
 | Material Design                | **0 %**   |
 | Animation                      | **0 %**   |
+| Quiz                           |           |
