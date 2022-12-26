@@ -7,7 +7,7 @@
 | Pathway                         | Progress  |
 |:--------------------------------|:----------|
 | Architecting your Compose UI    | **100 %** |
-| A Compose state of mind         | **0 %**   |
+| A Compose state of mind         | **100 %** |
 | Advanced state and side effects | **0 %**   |
 | Navigation                      | **0 %**   |
 | Quiz                            |           |
