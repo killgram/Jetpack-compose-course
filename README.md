@@ -17,7 +17,7 @@
 | Pathway                                 | Progress  | Readme links                                                              |
 |:----------------------------------------|:----------|---------------------------------------------------------------------------|
 | Compose essentials                      | **100 %** | [README](https://github.com/killgram/Jetpack-compose-course/tree/main/p1) |
-| Layouts, theming and animation          | **40 %**  | [README](https://github.com/killgram/Jetpack-compose-course/tree/main/p2) |
+| Layouts, theming and animation          | **60 %**  | [README](https://github.com/killgram/Jetpack-compose-course/tree/main/p2) |
 | Architecture and state                  | **0 %**   | [README](https://github.com/killgram/Jetpack-compose-course/tree/main/p3) |
 | Accessibility, testing and performance  | **0 %**   | [README](https://github.com/killgram/Jetpack-compose-course/tree/main/p4) |
 | Form factors                            | **0 %**   | [README](https://github.com/killgram/Jetpack-compose-course/tree/main/p5) |

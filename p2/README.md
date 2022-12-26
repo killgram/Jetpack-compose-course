@@ -8,6 +8,6 @@
 |:-------------------------------|:----------|
 | Deep dive into Compose Layouts | **100 %** |
 | Lazy layouts                   | **100 %** |
-| Material Design                | **0 %**   |
+| Material Design                | **100 %** |
 | Animation                      | **0 %**   |
 | Quiz                           |           |
