@@ -9,5 +9,5 @@
 | Deep dive into Compose Layouts | **100 %** |
 | Lazy layouts                   | **100 %** |
 | Material Design                | **100 %** |
-| Animation                      | **0 %**   |
+| Animation                      | **100 %** |
 | Quiz                           |           |
