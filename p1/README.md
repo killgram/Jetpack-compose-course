@@ -14,3 +14,4 @@
 | State in Compose                 | **100 %** |
 | Compose theming                  | **100 %** |
 | Migration to Compose             | **100 %** |
+| Quiz                             | **Done**  |
