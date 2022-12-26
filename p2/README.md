@@ -10,4 +10,4 @@
 | Lazy layouts                   | **100 %** |
 | Material Design                | **100 %** |
 | Animation                      | **100 %** |
-| Quiz                           |           |
+| Quiz                           | **Done**  |
