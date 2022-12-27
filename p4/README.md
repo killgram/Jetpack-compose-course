@@ -6,7 +6,7 @@
 
 | Pathway             | Progress  |
 |:--------------------|:----------|
-| Testing             | **0 %**   |
+| Testing             | **100 %** |
 | Accessibility       | **0 %**   |
 | Performance Gotchas | **0 %**   |
 | Quiz                |           |
