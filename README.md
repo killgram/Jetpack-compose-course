@@ -20,4 +20,4 @@
 | Layouts, theming and animation          | **100 %** | [README](https://github.com/killgram/Jetpack-compose-course/tree/main/p2) |
 | Architecture and state                  | **100 %** | [README](https://github.com/killgram/Jetpack-compose-course/tree/main/p3) |
 | Accessibility, testing and performance  | **100 %** | [README](https://github.com/killgram/Jetpack-compose-course/tree/main/p4) |
-| Form factors                            | **83 %**  | [README](https://github.com/killgram/Jetpack-compose-course/tree/main/p5) |
+| Form factors                            | **100 %** | [README](https://github.com/killgram/Jetpack-compose-course/tree/main/p5) |
