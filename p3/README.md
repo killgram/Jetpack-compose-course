@@ -10,4 +10,4 @@
 | A Compose state of mind         | **100 %** |
 | Advanced state and side effects | **100 %** |
 | Navigation                      | **100 %** |
-| Quiz                            |           |
+| Quiz                            | **Done**  |

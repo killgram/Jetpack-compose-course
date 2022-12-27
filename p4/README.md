@@ -9,3 +9,4 @@
 | Testing             | **0 %**   |
 | Accessibility       | **0 %**   |
 | Performance Gotchas | **0 %**   |
+| Quiz                |           |
