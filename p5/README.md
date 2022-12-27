@@ -9,6 +9,6 @@
 | Implementing Android apps for all screen sizes | **100 %** |
 | Build adaptive apps                            | **100 %** |
 | Compose for Wear OS introduction               | **100 %** |
-| Wear OS with Compose                           | **0 %**   |
+| Wear OS with Compose                           | **100 %** |
 | Compose and Glance for remote surface          | **0 %**   |
 | Quiz                                           |           |
