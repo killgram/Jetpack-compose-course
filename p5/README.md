@@ -11,3 +11,4 @@
 | Compose for Wear OS introduction               | **0 %**   |
 | Wear OS with Compose                           | **0 %**   |
 | Compose and Glance for remote surface          | **0 %**   |
+| Quiz                                           |           |
