@@ -8,5 +8,5 @@
 |:--------------------|:----------|
 | Testing             | **100 %** |
 | Accessibility       | **100 %** |
-| Performance Gotchas | **0 %**   |
+| Performance Gotchas | **100 %** |
 | Quiz                |           |
