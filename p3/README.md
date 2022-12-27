@@ -8,6 +8,6 @@
 |:--------------------------------|:----------|
 | Architecting your Compose UI    | **100 %** |
 | A Compose state of mind         | **100 %** |
-| Advanced state and side effects | **0 %**   |
+| Advanced state and side effects | **100 %** |
 | Navigation                      | **0 %**   |
 | Quiz                            |           |
